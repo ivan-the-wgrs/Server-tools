@@ -1,6 +1,6 @@
 #Server Tools
 
-A set of scripts for Diptychs and Linux server maintenance.
+A set of scripts for monitoring and Linux server maintenance.
 
 ##Scripts
 
