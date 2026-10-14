@@ -1,0 +1,11 @@
+#Backups
+backups/
+*.tar.gz
+
+#Temporary files
+*.tmp
+*.log
+
+#System files
+.DS_Store
+Thumbs.db
